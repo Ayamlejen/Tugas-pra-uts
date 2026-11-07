@@ -1,0 +1,9 @@
+
+numpy==1.26.4
+torch
+torchvision
+librosa>=0.10.2
+matplotlib>=3.8
+Pillow>=10
+streamlit>=1.35
+soundfile>=0.12
